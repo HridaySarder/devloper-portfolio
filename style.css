@@ -137,6 +137,7 @@ box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
   display: flex;
   justify-content: space-between;
   gap: 30px;
+  flex-direction: row-reverse;
 }
 .resume-item-description{
   color:  #757575;
@@ -173,6 +174,7 @@ margin-bottom: 0px;
  }
  footer{
   display: flex;
+  
   /* text-align: center; */
   justify-content: center;
   gap: 100px;
